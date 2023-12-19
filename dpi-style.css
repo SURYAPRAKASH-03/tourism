@@ -1,0 +1,294 @@
+
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: brightness(60%);
+    min-height: 100vh;
+    background-image: url('image/WhatsApp Image 2023-07-20 at 15.10.00.jpg') ;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+.tourhead{
+    align-items: center;
+     justify-content: center;
+     display: flex;
+     font-size: 2rem;
+     font-weight: bold;
+}
+.Hogenakal{
+    font-size: 25px;
+}
+.Hogenakal header{
+    background-color:green;
+    color: white;
+    width: 160px;
+}
+.Hogenakal a{
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: darkblue;
+    color: rgb(249, 246, 246);
+    width: 98%;
+    
+}
+.card-group i{
+    top: 0%;
+    font-size: 30px;
+   background-color: green;
+   width: 30px;
+   height: 25px;
+   border-radius: 0%;
+   border: 1.5px solid black;
+   padding: 5px;
+    float: right;
+    font-size: medium;
+    transform:  translatey(-5px);
+}
+
+.card-title i{
+    top: 0%;
+    font-size: 30px;
+   background-color: green;
+   width: 30px;
+   height: 25px;
+   border-radius: 0%;
+   border: 1.5px solid black;
+   padding: 5px;
+    float: right;
+    font-size: medium;
+    transform:  translatey(-5px);
+}
+.Hogenakalloc{
+   background-color: darkblue;
+   color: white;
+   text-decoration: none;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.theerthamalai a{
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: darkblue;
+    color: rgb(249, 246, 246);
+    width: 98%;
+    }
+.theerthamalai{
+    font-size: 25px;
+    }
+.theerthamalai header{
+     background-color: green;
+     color: white;
+     width: 35%;
+    }
+    .theerthamalailoc{
+        background-color: brown;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-size: 1.5REM;
+        text-decoration: none;
+    }
+    .kalabairavar a{
+        font-size: 1.5rem;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color:darkblue;
+        color: rgb(249, 246, 246);
+        width: 98%;
+    }
+    .kalabairavar header{
+        background-color: green;
+        color: white;
+        width: 25%;
+    }
+    .kalabairavar{
+        font-size: 25px;
+            }
+            .kalabairavarloc{
+                background-color: brown;
+                color: white;
+                text-decoration: none;
+                 font-size: 1.5rem;
+                 align-items: center;
+                 justify-content: center;
+                 display: flex;
+             }
+.chenraya header{
+    background-color: green;
+     color: white;
+     width: 35%;
+}  
+.chenraya a{
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: darkblue;
+    color: rgb(249, 246, 246);
+    width: 98%;
+} 
+.chenraya{
+    font-size: 25px;
+    }          
+    .chenrayaloc{
+        background-color: brown;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-size: 1.5REM;
+        text-decoration: none;
+    }
+    .kaveri header{
+        background-color: green;
+         color: white;
+         width: 25%;
+    }  
+    .kaveri a{
+        font-size: 1.5rem;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color: darkblue;
+        color: rgb(249, 246, 246);
+        width: 98%;
+        
+    }
+    .kaveri{
+        font-size: 25px;
+        }          
+    .kaveriloc{
+    background-color: darkblue;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-size: 1.5REM;
+    text-decoration: none;
+    }
+    .aboutdpi{
+        font-size: 20px;
+    }
+    .aboutdpi a{
+        
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color: brown;
+        text-decoration: none;
+        color: white;
+       font-size: 1.5rem;
+    }
+    .aboutdpi a:hover{
+        color: white;
+    }
+    .center :link :hover{
+        color: white;
+
+    }
+    .container .bbtn1{
+        position: absolute;
+        background-color: darkcyan;
+        text-transform: uppercase;
+        font-size: 25px;
+        width: 130px;
+        height: 30px;
+    }
+    .container .bbtn0{
+        
+        margin-top: 20px;
+        display: inline-flex;
+        float: right;
+        margin-right: 150px;
+         position: static;
+        }
+        .navbar{
+            position: sticky;
+            background-color: rgb(14, 175, 175);
+            text-decoration:none;
+            font-size: 20px;
+        }
+        .frame .dat{
+            font-size: larger;
+            display: flex;
+        justify-content: center;   
+            }
+        .frame{
+            background-color:rgb(0, 1, 4) ;
+            color: darkred;
+            align-content: center; 
+        }
+        .frame .date{
+            color: darkgreen;
+            display: flex;
+        justify-content: center; 
+        font-size: smaller;
+        }
+        .bttn{
+            position: fixed;
+            z-index: 9999;
+            bottom: 1%;
+            right: 1%;
+            width: 40px;
+            height: 40px;
+            
+            }
+        .bttn{
+            animation: bounce 1.5s linear infinite;
+        }  
+        @keyframes bounce{
+          
+            0%{
+                transform: rotate(0deg) translatey(10px);
+              }
+              25%{
+                transform: rotate(0deg) translatey(-10px);
+              }
+              50%{
+                transform: rotate(0deg) translatey(10px);
+              }
+              75%{
+                transform: rotate(0deg) translatey(-10px);
+              }
+              100%{
+                transform: rotate(0deg) translatey(10px);
+              }
+        }  
+        i{
+            
+            width: 50px;
+            height: 50px;
+            padding: 12px;
+            border-radius: 40px;
+            color: black;
+            font-size: 30px;
+            
+        }
+        .card-title a{
+            background-color: white;
+            top: 0%;
+    font-size: 30px;
+   background-color: green;
+   width: 30px;
+   height: 25px;
+   border-radius: 0%;
+   border: 1.5px solid black;
+   padding: 5px;
+    float: right;
+    font-size: medium;
+    transform:  translatey(-5px);
+            }
+    .list-group{
+        font-size: 20px;
+    }        
+.background h1{
+    color: black;
+}
+        
